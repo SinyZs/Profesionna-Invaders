@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SHIELD
+  - WALL
+  - PLAYER
+  - ENEMY
+  - DEFEATLIMIT
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Players
+  - Enemies
+  - Shield
+  - WorldLimits
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BACKGROUND
+    uniqueID: 3923265709
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: FOREGROUND
+    uniqueID: 4285424773
+    locked: 0
+  - name: FX
+    uniqueID: 3407287207
+    locked: 0
+  - name: UI
+    uniqueID: 762299877
+    locked: 0
